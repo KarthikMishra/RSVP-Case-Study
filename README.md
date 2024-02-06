@@ -1,4 +1,4 @@
-# RSVP-Case-Study
+# RSVP-Movies-Case-Study
 Case Study acquiring data through SQL querying from a given database
 
 # Problem Introduction
